@@ -76,8 +76,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.google.com/imgres?q=alisha%20parmar&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5603AQGyzz_mfw4k0w%2Fprofile-displayphoto-shrink_200_200%2F0%2F1711759144658%3Fe%3D2147483647%26v%3Dbeta%26t%3DHJYcTWnFkgnBqIccohxpHBANzUaPxfrc0MRQnUjtH2I&imgrefurl=https%3A%2F%2Fca.linkedin.com%2Fin%2Falisha-parmar-a362811bb&docid=kssREc3Lk-fc9M&tbnid=2AB445Lzxm31fM&vet=12ahUKEwjJ1omzgaSFAxUlIDQIHagFAloQM3oFCIIBEAA..i&w=200&h=200&hcb=2&ved=2ahUKEwjJ1omzgaSFAxUlIDQIHagFAloQM3oFCIIBEAA
-
+avatar: https://www.google.com/imgres?q=alisha%20parmar&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5603AQGyzz_mfw4k0w%2Fprofile-displayphoto-shrink_200_200%2F0%2F1711759144658%3Fe%3D2147483647%26v%3Dbeta%26t%3DHJYcTWnFkgnBqIccohxpHBANzUaPxfrc0MRQnUjtH2I&imgrefurl=https%3A%2F%2Fca.linkedin.com%2Fin%2Falisha-parmar-a362811bb&docid=kssREc3Lk-fc9M&tbnid=2AB445Lzxm31fM&vet=12ahUKEwidle-ShqSFAxWfMjQIHcZfDEEQM3oECEQQAA..i&w=200&h=200&hcb=2&ved=2ahUKEwidle-ShqSFAxWfMjQIHcZfDEEQM3oECEQQAA
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
