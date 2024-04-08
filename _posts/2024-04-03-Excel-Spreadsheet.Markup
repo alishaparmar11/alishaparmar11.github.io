@@ -65,6 +65,6 @@ Next to the body fat percentage cell, I used the VLOOKUP function to show the ra
 Finally, this spreadsheet uses the height and weight data of the participants to create two histograms, showing the frequency of the height and weight values. The bins are like a bucket, each height and weight value is sorted into this bins. To do this, I went to the “Data” tab, clicked “Data Analysis”, then clicked “histogram” and selected my frequency and bin values. Finally, I also selected “Chart Output” to create a chart. 
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/alishaparmar11/alishaparmar11.github.io/main/data/histogram.png" alt="histogram data">
+<img src="https://raw.githubusercontent.com/alishaparmar11/alishaparmar11.github.io/main/images/histogram.png" alt="histogram data">
 <br>
 <br>
