@@ -13,4 +13,3 @@ This website was created using the Chirpy theme for Jekyll and I used Github to 
 Thank you for a wonderful semester, hope you enjoy!
 <br>
 <br>
-- Alisha 
