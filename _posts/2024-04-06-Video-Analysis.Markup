@@ -9,7 +9,7 @@ math: true
 For this video analysis, the application MyDartfish was used. 
 <br>
 <br>
-First, I analyzed a hockey game, more specifically an olympic hockey game played by Team Canada and Team U.S.A. Within the first minute and thirty seconds, I made snapshots and tagged all passes and face-offs made. Shots were marked with a “Miss”, “Save” or “Shot” outcome. Face-offs were marked with a “Win” or “Lose” outcome. For the purposes of this assignment, I tagged 4 key points: two face-offs and two passes.
+First, I analyzed a hockey game, more specifically an olympic hockey game played by Team Canada and Team U.S.A. Within the first minute and thirty seconds, I made snapshots and tagged all passes, shots and face-offs made. Shots were marked with a “Miss”, “Save” or “Shot” outcome. Face-offs were marked with a “Win” or “Lose” outcome. For the purposes of this assignment, I tagged 4 key points: two face-offs and two passes.
 <br>
 <br>
 Next, I used these snapshots to analyze key angles as well as add a text box to each snapshot indicating the action, outcome and team.
