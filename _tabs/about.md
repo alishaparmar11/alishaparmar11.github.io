@@ -16,6 +16,7 @@ Education:
 <br>
 I am currently enrolled in my fourth (4th) year at the University of Calgary, completing two undergraduate degrees in Kinesiology and Finance.
 <br>
+<br>
 Qualifications:
 <br>
 I am proficient in many Microsoft Office platforms, specifically Excel, Word, Outlook, and PowerPoint. My work experience has taught me the importance of customer service, strong communication skills, and provided me the ability to work with a variety of different perspectives. I am often complimented on my attention to detail. This attention to detail results in high quality of work. All of my previous work experience involved direct face-to-face customer interaction, allowing me to respond appropriately to different types of situations.
