@@ -14,8 +14,7 @@ insert link here
 <br>
 Education:
 <br>
-I am currently enrolled in my fourth (4th) year at the University of Calgary in Business and Kinesiology with plans to return for my final year in September 2024. I have maintained a GPA of 3.90 and have earned a spot on the Dean’s List every semester.
-<br>
+I am currently enrolled in my fourth (4th) year at the University of Calgary, completing two undergraduate degrees in Kinesiology and Finance.
 <br>
 Qualifications:
 <br>
