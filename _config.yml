@@ -14,12 +14,12 @@ timezone: America/Edmonton
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Website Coding  # the main title
+title: Alisha Parmar Live Resume and Cover Letter  # the main title
 
 tagline: Welcome! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  This is a website I coded through the use of a jekyll theme via github. More specifically, the main coding languages I used were Markdown and HTML. Any graphs made were created by a Python code.
+  This is a website I coded through the use of a jekyll theme via github. More specifically, the main coding languages I used were Markdown and HTML. Any graphs made were created by a Python code. Posts on this website include my resume, cover letter, Excel analysis and sport video analysis.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
