@@ -9,7 +9,7 @@ My name is Alisha Parmar. This is my final project for KNES 381 - Computer Appli
 <br>
 This is my resume:
 <br>
-<a href="https://raw.githubusercontent.com/alishaparmar11/alishaparmar11.github.io/main/images/AlishaParmarResume_March2024.pdf" target="_blank">Download Resume (PDF)</a>
+<a href="https://raw.githubusercontent.com/alishaparmar11/alishaparmar11.github.io/main/images/Alisha Parmar Resume - October 2024.pdf" target="_blank">Download Resume (PDF)</a>
 <br>
 <br>
 Education:
