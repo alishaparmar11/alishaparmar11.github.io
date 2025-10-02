@@ -19,9 +19,8 @@ title: Learn to code with me!  # the main title
 tagline: Welcome! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  This is a website I coded through the use of a jekyll theme through github. More specifically, the main coding languages I used were Markdown and HTML. Any graphs made were created by a Python code. I also learned how to use Version Control while setting this website up. Posts on this website include my resume, cover letter, an essay completed using LaTeX, Microsoft Excel analysis, and sport video analysis.
-
-# Fill in the protocol & hostname for your site.
+ 
+This is a website I created while learning how to code. To integrate my work, I used Version Control. The main coding languages used throughout the websites were MarkDown and HTML. All graphs were created from a Python code. Posts on this website include my resume, cover letter, an essay I wrote using LaTeX, Microsoft Excel Analysis and a brief video analysis.# Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://alishaparmar11.github.io"
 
