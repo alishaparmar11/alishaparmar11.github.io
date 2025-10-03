@@ -14,9 +14,9 @@ timezone: America/Edmonton
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Learn to code with me!  # the main title
+title: Learn to code with me  # the main title
 
-tagline: Welcome! # it will display as the sub-title
+tagline: Welcome my website! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
  
